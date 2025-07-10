@@ -12,12 +12,12 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: false
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<font size="7">**Research:**</font>  
+**Research:** 
 
 My research aims to develop advanced medical image reconstruction techniques by leveraging large language models, large vision models, and multimodal foundation models. The goal is to achieve more accurate and clinically relevant medical image reconstruction.
 
