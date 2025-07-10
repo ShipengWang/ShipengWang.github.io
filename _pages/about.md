@@ -24,4 +24,4 @@ During my doctoral studies, my research focused on deep learning paradigms in op
 
 I also serve as a reviewer for leading journals and conferences, including Nature Communications, IEEE TPAMI, IEEE TNNLS, IEEE TIP, IEEE TMI, CVPR, ICCV, and others.
 
-**Open positions:** The research group is well-funded. Prospective students interested in pursuing a Master's, Ph.D., or Postdoctoral position are welcome to contact me by email with their CV.
+**Open positions:** The research group is well-funded. Prospective students interested in pursuing a Master's, Ph.D., or Postdoctoral position are welcome to contact me by email with their CV (wangshipeng@xjtu.edu.cn).
