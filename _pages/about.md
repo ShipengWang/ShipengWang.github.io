@@ -16,6 +16,12 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-**Research:**  I am committed to advancing fundamental AI algorithms for medical imaging.
+<!-- **Research:**  I am committed to advancing AI algorithms for medical imaging. -->
 
-**Previously:** I reveived my Ph.D. in Mathematics from [Xi&#39;an Jiaotong University](https://www.xjtu.edu.cn/), advised by [Prof. Zongben Xu](https://gr.xjtu.edu.cn/en/web/zbxu) and co-advised by [Prof. Jian Sun](https://gr.xjtu.edu.cn/en/web/jiansun/publications). I obtained my Bachelor's degree in Mathematics and Applied Mathematics from [Ocean University of China](https://www.ouc.edu.cn/).During my doctoral studies, I concentrated on the development of fundamental algorithms in artificial intelligence, including meta-learning and continual learning.
+**Previously:** I am an Assistant Professor at Xi’an Jiaotong University. His graduate advisor was Academician [Prof. Zongben Xu](https://gr.xjtu.edu.cn/en/web/zbxu), with joint guidance from Professor [Prof. Jian Sun](https://scholar.google.com/citations?user=SSgNWOMAAAAJ&hl=zh-CN), and his postdoctoral advisor was Professor [Jianhua Ma](https://scholar.google.com/citations?user=dG5Ix6EAAAAJ&hl=en).
+
+During my doctoral studies, my research focused on deep learning paradigms in open-world scenarios, with notable achievements in continual learning and automated machine learning. In recent years, I have led a sub-project of the National Key R&D Program and a General Postdoctoral Project. I have published seven papers in top-tier international journals and conferences in artificial intelligence and computer vision, including IEEE TPAMI, CVPR, and AAAI. I also had the honor of delivering an oral presentation at CVPR, one of the leading conferences in computer vision.My work has been recognized as the Outstanding Paper at the 19th Young Scientists Conference of the China Society of Image and Graphics, and I received second place in the “Continual Learning for Sequential Tasks” track at the 2nd Guangdong-Hong Kong-Macao Greater Bay Area (Huangpu) International Algorithm Case Competition.
+
+I also serve as a reviewer for leading journals and conferences, including Nature Communications, IEEE TPAMI, IEEE TNNLS, IEEE TIP, IEEE TMI, CVPR, ICCV, and others.
+
+**Open positions:** The research group is well-funded. Prospective students interested in pursuing a Master's, Ph.D., or Postdoctoral position are welcome to contact me by email with their CV.
