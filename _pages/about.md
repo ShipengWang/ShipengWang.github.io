@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 <!-- **Research:**  I am committed to advancing AI algorithms for medical imaging. -->
 
-**Short Bio:** 
+**Abput Me:** 
 
 I am an Assistant Professor at Xi’an Jiaotong University. His graduate advisor was Academician [Prof. Zongben Xu](https://gr.xjtu.edu.cn/en/web/zbxu), with joint guidance from Professor [Prof. Jian Sun](https://scholar.google.com/citations?user=SSgNWOMAAAAJ&hl=zh-CN), and his postdoctoral advisor was Professor [Jianhua Ma](https://scholar.google.com/citations?user=dG5Ix6EAAAAJ&hl=en).
 
@@ -26,6 +26,6 @@ During my doctoral studies, my research focused on deep learning paradigms in op
 
 I also serve as a reviewer for leading journals and conferences, including Nature Communications, IEEE TPAMI, IEEE TNNLS, IEEE TIP, IEEE TMI, CVPR, ICCV, and others.
 
-**Open positions:** 
+**Open Positions:** 
 
 The research group is well-funded. Prospective students interested in pursuing a Master's, Ph.D., or Postdoctoral position are welcome to contact me by email with their CV (wangshipeng@xjtu.edu.cn).
