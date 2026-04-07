@@ -1,8 +1,16 @@
 ---
 ---
-
+  
+@inproceedings{Wang_2026_ACL,
+    author    = {Wang Jiayi* and Wang Shipeng* and Wu Ji and Sun Jian},
+    title     = {SAME: Safety-Aware Model Editing Guided by Safety Transformation},
+    booktitle = {Annual Meeting of the Association for Computational Linguistics},
+    year      = {2026},
+    selected = {false},
+    abbr = {ACL},
+}
 @article{NULL_2024_Wang,
-  author = {Wang, Shipeng and Li, Xiaorong and Sun, Jian and Xu, Zongben},
+  author = {Wang Shipeng and Li Xiaorong and Sun Jian and Xu Zongben},
   journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
   title = {Training Networks in Null Space of Feature Covariance With Self-Supervision for Incremental Learning},
   volume = {},
@@ -16,7 +24,7 @@
   abstract = {In the context of incremental learning, a network is sequentially trained on a stream of tasks, where data from previous tasks are particularly assumed to be inaccessible. The major challenge is how to overcome the stability-plasticity dilemma, i.e., learning knowledge from new tasks without forgetting the knowledge of previous tasks. To this end, we propose two mathematical conditions for guaranteeing network stability and plasticity with theoretical analysis. The conditions demonstrate that we can restrict the parameter update in the null space of uncentered feature covariance at each linear layer to overcome the stability-plasticity dilemma, which can be realized by layerwise projecting gradient into the null space. Inspired by it, we develop two algorithms, dubbed Adam-NSCL and Adam-SFCL respectively, for incremental learning. Adam-NSCL and Adam-SFCL provide different ways to compute the projection matrix. The projection matrix in Adam-NSCL is constructed by singular vectors associated with the smallest singular values of the uncentered feature covariance matrix, while the projection matrix in Adam-SFCL is constructed by all singular vectors associated with adaptive scaling factors. Additionally, we explore adopting self-supervised techniques, including self-supervised label augmentation and a newly proposed contrastive loss, to improve the performance of incremental learning. These self-supervised techniques are orthogonal to Adam-NSCL and Adam-SFCL and can be incorporated with them seamlessly, leading to Adam-NSCL-SSL and Adam-SFCL-SSL respectively. The proposed algorithms are applied to task-incremental and class-incremental learning on various benchmark datasets with multiple backbones, and the results show that they outperform the compared incremental learning methods.}
 }
 @ARTICLE{VR_2022_Wang,
-  author={Wang, Shipeng and Yang, Yan and Sun, Jian and Xu, Zongben},
+  author={Wang Shipeng and Yang Yan and Sun Jian and Xu Zongben},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Variational HyperAdam: A Meta-Learning Approach to Network Training}, 
   year={2022},
@@ -29,8 +37,9 @@
   selected = {true},
   abstract = {Stochastic optimization algorithms have been popular for training deep neural networks. Recently, there emerges a new approach of learning-based optimizer, which has achieved promising performance for training neural networks. However, these black-box learning-based optimizers do not fully take advantage of the experience in human-designed optimizers and heavily rely on learning from meta-training tasks, therefore have limited generalization ability. In this paper, we propose a novel optimizer, dubbed as Variational HyperAdam, which is based on a parametric generalized Adam algorithm, i.e., HyperAdam, in a variational framework. With Variational HyperAdam as optimizer for training neural network, the parameter update vector of the neural network at each training step is considered as random variable, whose approximate posterior distribution given the training data and current network parameter vector is predicted by Variational HyperAdam. The parameter update vector for network training is sampled from this approximate posterior distribution. Specifically, in Variational HyperAdam, we design a learnable generalized Adam algorithm for estimating expectation, paired with a VarBlock for estimating the variance of the approximate posterior distribution of parameter update vector. The Variational HyperAdam is learned in a meta-learning approach with meta-training loss derived by variational inference. Experiments verify that the learned Variational HyperAdam achieved state-of-the-art network training performance for various types of networks on different datasets, such as multilayer perceptron, CNN, LSTM and ResNet.}
   }
+
 @inproceedings{Wang_2021_CVPR,
-    author    = {Wang, Shipeng and Li, Xiaorong and Sun, Jian and Xu, Zongben},
+    author    = {Wang Shipeng and Li Xiaorong and Sun Jian and Xu Zongben},
     title     = {Training Networks in Null Space of Feature Covariance for Continual Learning},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
     year      = {2021},
@@ -85,7 +94,7 @@ abbr = {PR},
 volume = {144},
 year = {2023},
 pdf = {https://www.sciencedirect.com/science/article/pii/S0031320323005733},
-author = {Xiaorong Li and Shipeng Wang* and Jian Sun and Zongben Xu},
+author = {Xiaorong Li* and Shipeng Wang* and Jian Sun and Zongben Xu},
 keywords = {Continual learning, Catastrophic forgetting, Knowledge distillation},
 abstract = {Deep neural networks suffer from the catastrophic forgetting phenomenon when trained on sequential tasks in continual learning, especially when data from previous tasks are unavailable. To mitigate catastrophic forgetting, various methods either store data from previous tasks, which may raise privacy concerns, or require large memory storage. Particularly, the distillation-based methods mitigate catastrophic forgetting by using proxy datasets. However, proxy datasets may not match the distributions of the original datasets of previous tasks. To address these problems in a setting where the full training data of previous tasks are unavailable and memory resources are limited, we propose a novel data-free distillation method. Our method encodes knowledge of previous tasks into network parameter gradients by Taylor expansion, deducing a regularizer relying on gradients in network training loss. To improve memory efficiency, we design an approach to compressing the gradients in the regularizer. Moreover, we theoretically analyze the approximation error of our method. Experimental results on multiple datasets demonstrate that our proposed method outperforms the existing approaches in continual learning.}
 }
@@ -97,7 +106,7 @@ abbr = {PR},
 pages = {110680},
 year = {2024},
 pdf = {https://www.sciencedirect.com/science/article/pii/S003132032400431X},
-author = {Ji Wu and Shipeng Wang* and Jian Sun},
+author = {Ji Wu* and Shipeng Wang* and Jian Sun},
 keywords = {Few-shot learning, Metric learning, Attentive MMD},
 abstract = {Metric-based methods have attained promising performance for few-shot image classification. Maximum Mean Discrepancy (MMD) is a typical distance between distributions, requiring to compute expectations w.r.t. data distributions. In this paper, we propose Attentive Maximum Mean Discrepancy (AMMD) to measure the distances between query images and support classes for few-shot classification. Each query image is classified as the support class with minimal AMMD distance. The proposed AMMD assists MMD with distributions adaptively estimated by an Attention-based Distribution Generation Module (ADGM). ADGM is learned to put more mass on more discriminative features, which makes the proposed AMMD distance emphasize discriminative features and overlook spurious features. Extensive experiments show that our AMMD achieves competitive or state-of-the-art performance on multiple few-shot classification benchmark datasets.}
 }
